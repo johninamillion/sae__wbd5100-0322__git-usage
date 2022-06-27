@@ -2,6 +2,8 @@
 
 ## Basic Commands
 
+### Git Repositories
+
 #### Git Init
 `git init` wird verwendet um ein git repository (local) zu erstellen.
 
@@ -44,4 +46,26 @@ $ git push
 
 ```shell
 $ git pull
+```
+
+### Branches
+
+Listet alle Branches auf
+```shell
+$ git branch
+```
+
+Erstellen von einem neuen Branch
+```shell
+$ git branch --create new-branch
+```
+
+Löschen von einem alten Branch
+```shell
+$ git branch --delete old-branch
+```
+
+Wechseln zu einem neuen Branch
+```shell
+$ git checkout new-branch
 ```
