@@ -12,3 +12,6 @@ Thumbs.db
 # IntelliJ IDEA Files and Folders
 /.idea
 *.iml
+
+# Database Dumbs
+*.sql
