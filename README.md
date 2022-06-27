@@ -69,3 +69,8 @@ Wechseln zu einem neuen Branch
 ```shell
 $ git checkout new-branch
 ```
+
+Commits mit einem neuen Branch (local) pushen
+```shell
+$ git push --set-upstream origin new-branch
+```
