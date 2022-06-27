@@ -3,13 +3,13 @@
 ## Basic Commands
 
 #### Git Clone
-
 `git clone` wird verwendet um ein vorhandenes git repository zu klonen.
 
 ```shell
 $ git clone https://github.com/johninamillion/sae__wbd5100-0322__git-usage.git
 ```
 
+#### Git Add
 `git add` fügen wir eine Datei für unsere nächste git operation hinzu.
 
 ```shell
@@ -18,6 +18,7 @@ git add /templates/register/index.php
 git README.md
 ```
 
+#### Git Commit
 `git commit` nutzen zum Erstellen von einem Commit, es ist notwendig vorher die Dateien die wir commiten möchten per `git add` hinzuzufügen.
 
 ```shell
