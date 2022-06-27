@@ -1,5 +1,9 @@
 # Git Usage
 
+* [Basic Commands](#basic-commands)
+  * [Repositories](#git-repositories)
+  * [Branches](#branches)
+
 ## Basic Commands
 
 ### Git Repositories
