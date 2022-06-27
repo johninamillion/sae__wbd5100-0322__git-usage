@@ -24,3 +24,17 @@ git README.md
 ```shell
 git commit -m "Commit Message, was habe ich hier gemacht?"
 ```
+
+#### Git Push
+`git push` nutzen wir um bestehende commits (local) ins git repository zu pushen.
+
+```shell
+git push
+```
+
+#### Git Pull
+`git pull` nutzen wir um bestehende commits (remote) aus dem git repository zu pullen
+
+```shell
+git pull
+```
