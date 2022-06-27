@@ -2,6 +2,8 @@
 
 * [Basic Commands](#basic-commands)
   * [Repositories](#git-repositories)
+    * [Git Init](#git-init)
+    * [Git Clone](#git-clone)
   * [Branches](#branches)
 
 ## Basic Commands
